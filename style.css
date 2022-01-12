@@ -1,0 +1,66 @@
+a{color: #11999E}
+
+a:hover{color: #EAF6F6}
+
+.btn {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #30e3cb);
+  background-image: -moz-linear-gradient(top, #30e3cb, #30e3cb);
+  background-image: -ms-linear-gradient(top, #30e3cb, #30e3cb);
+  background-image: -o-linear-gradient(top, #30e3cb, #30e3cb);
+  background-image: linear-gradient(to bottom, #30e3cb, #30e3cb);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  text-shadow: 1px 1px 3px #000000;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2bc4ad;
+  background-image: -webkit-linear-gradient(top, #2bc4ad, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #2bc4ad, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #2bc4ad, #2bc4ad);
+  background-image: -o-linear-gradient(top, #2bc4ad, #2bc4ad);
+  background-image: linear-gradient(to bottom, #2bc4ad, #2bc4ad);
+  text-decoration: none;
+}
+body{margin-top: 0px; text-align: center; margin: 0;}
+
+.bottom-container{margin-top: 6.25rem; background-color: #66BFBF; padding: 50px 0px; color: white}
+
+.contact-me{width: 50%; margin: 0 auto; line-height: 2}
+
+.CS{color: red;}
+
+.description{margin-block-start: 0; position: relative; bottom: 32px; color: #66BFBF}
+
+.edit{color: red; text-decoration: none}
+
+.edit:hover{color: blue; text-decoration: none}
+
+.footer-link{color: #11999E; margin: 0 1rem; text-decoration: none}
+
+.image-a{width: 25%; float: left}
+
+.image-b{width: 25%; float: right}
+
+hr{border: dotted; border-width: thick; color: #EAF6F6; width: 2%; border-top: 1px; margin: 6.25rem auto}
+
+h1{margin-top: 3.125rem; font-family: "Licorice", serif; font-size: 5rem; margin-block-end: 0.67em; color: #66BFBF; line-height: 2}
+
+h2{color: #11999E; font-weight: normal }
+
+h3{color: #11999E}
+
+.lowercloud{position:absolute;}
+
+.main{background-color: #E4F9F5; padding-top: 5rem; margin-bottom: 4.6875rem}
+
+.skill-row{width: 50%; margin: 100px auto; text-align: left; line-height: 2}
+
+.uppercloud{position:absolute; position: relative; bottom: 1.25rem; left: 13.125rem}
